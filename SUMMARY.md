@@ -7,4 +7,5 @@
 * [自己分析、特性判断の機会](STATUS.md)
 * [自己認識の機会](MENTAL_HEALTH.md)
 * [虐待防止](nve_dai_fang_zhi.md)
+* 消防計画
 
