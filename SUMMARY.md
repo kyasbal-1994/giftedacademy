@@ -8,5 +8,5 @@
 * [自己認識の機会](MENTAL_HEALTH.md)
 * [虐待防止](nve_dai_fang_zhi.md)
 * [消防計画](xiao_fang_ji_hua.md)
-* 運営規定
+* [運営規定](yun_ying_gui_ding.md)
 
