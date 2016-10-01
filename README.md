@@ -2,7 +2,7 @@ GIFTED ACADEMY DESIGN DOC
 =======
 
 Authors: Jun Kawasaki
-Status: Draft (as of April 26, 2015)
+Status: Draft (as of Oct 01, 2015)
  
 ## 最初に
 
