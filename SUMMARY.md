@@ -11,5 +11,5 @@
 * [運営規定](yun_ying_gui_ding.md)
 * [権利擁護規定](quan_li_yong_hu_gui_ding.md)
 * [より良い学びの方法](より良い学びの方法.md)
-* 入学説明会の
+* 入学説明会のプロセス
 
