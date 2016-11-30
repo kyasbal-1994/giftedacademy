@@ -25,9 +25,15 @@ GIFTED ACADEMYでは、GIFTED AGENTが提供する「ミチシルベ」システ
 
 ## 背景
 
-GIFTED ACADEMYが最も大切にすることは、発達障害を抱える人が「生きる意味を見つける」である。
+GIFTED ACADEMYが最も大切にすることは、
+
+発達障害を抱える人が「生きる意味を見つける」である。
+
+
 
 そのため、特性判断・能力診断やプログラミングやデザイン教育、マッチングは二の次である（一番目はメンタルヘルス）
+
+
 
 どのように優れた能力があっても、
 その能力を発揮する意欲がなければ行動する事ができず、
@@ -125,7 +131,4 @@ GIFTED ACADEMYでは、
 * [http:\/\/www.nikkeibp.co.jp\/article\/nba\/20090105\/181861\/](http://www.nikkeibp.co.jp/article/nba/20090105/181861/)
 * [http:\/\/www.amazon.co.jp\/dp\/4274215385](http://www.amazon.co.jp/dp/4274215385)
 * [http:\/\/www.amazon.co.jp\/dp\/4822248976](http://www.amazon.co.jp/dp/4822248976)
-
-
-
 
