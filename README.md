@@ -7,7 +7,7 @@ Status: Draft \(as of 12\/03, 2016\)
 
 GIFTED ACADEMYはGIFTED AGENT株式会社が提供する就労移行支援サービスの名称である。
 
-GIFTED ACADEMYは、以下の四つの特徴を持っている。
+GIFTED ACADEMYは、以下の３つの特徴を持っている。
 
 * 発達障害（ADHD, LD, ASD）に特化
 * プログラミング・デザイン・英語教育に特化
