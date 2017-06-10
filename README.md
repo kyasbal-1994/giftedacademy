@@ -1,7 +1,7 @@
 # GIFTED ACADEMY
 
 Authors: Jun Kawasaki  
-Status: Draft \(as of 02/13, 2017\)
+Status: Draft \(as of 06/10, 2017\)
 
 ## 最初に
 
@@ -72,10 +72,10 @@ GIFTED ACADEMYは『学校』ではない、『職業訓練』の場である。
 ・仮入学（体験期間）  
 ・本入学
 
-生徒は最大２年間、  
+利用者は最大２年間、  
 GIFTED ACADEMYに通所することができる。
 
-入学後には生徒は週７日の間、  
+入学後には利用者は週７日の間、  
 火、水、木、金、土の計５日間、  
 GIFTED ACADEMYにて学ぶ必要がある。
 
